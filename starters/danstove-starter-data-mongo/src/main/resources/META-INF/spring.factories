@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.danstove.starter.data.mongo.MongoConfiguration
